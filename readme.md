@@ -1,6 +1,6 @@
 # Structure
 ```
-easybao/
+seed-mobile/
 ├── articles/
 ├── server/ 服务端代码
 │   ├── controller/
@@ -43,7 +43,7 @@ easybao/
 
 ## how to build
 1. npm run build
-完了文件就在./dist目录下
+you will find compiled file in ./dist
 
 ## how to deploy
 1. npm run deploy

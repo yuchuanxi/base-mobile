@@ -27,15 +27,3 @@ gulp.task('build', function () {
    //
   });
 });
-
-
-// API
-// api.xxxx
-// preapi.xxxx
-// betaapi.xxx
-// 
-// page
-// www.xxx
-// m.xxxx
-// pre.xxx
-// beta.xxx
