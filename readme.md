@@ -36,16 +36,16 @@ easybao/
 └── dist/ 编译后的前端资源
 ```
 
-## 如何开发？
+## how to develop
 1. npm install
 2. npm run dev
 
 
-## 打包前端资源
+## how to build
 1. npm run build
 完了文件就在./dist目录下
 
-## 部署前端资源(可以改成web hook的方式)
+## how to deploy
 1. npm run deploy
 
 

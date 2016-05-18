@@ -1,5 +1,5 @@
 {
-  "name": "esaybao",
+  "name": "send-mobile",
   "version": "1.0.0",
   "description": "personal blog project",
   "main": "app.js",
@@ -13,19 +13,19 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "statisticDate": "2015-12-11",
-  "author": "gooofly",
+  "author": "yuchuanxi",
   "maintainers": [
     {
-      "name": "gooofly",
+      "name": "yuchuanxi",
       "email": "wangfei.f2e@gmail.com"
     }
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:gooofly/potato.git"
+    "url": "git@github.com:yuchuanxi/seed-mobile.git"
   },
-  "homepage": "http://gooofly.com",
+  "homepage": "http://yuchuanxi.com",
   "dependencies": {
     "backbone": "^1.2.3",
     "co-views": "^2.1.0",
